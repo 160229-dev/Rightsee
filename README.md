@@ -43,7 +43,7 @@
 ### Option B — Run from source
 
 ```bash
-git clone https://github.com/YOURNAME/Rightsee.git
+git clone https://github.com/160229-dev/Rightsee.git
 cd Rightsee
 python Rightsee.py
 ```
